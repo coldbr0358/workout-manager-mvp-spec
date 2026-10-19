@@ -1,0 +1,12 @@
+{
+  "name": "Workout Manager",
+  "short_name": "Workout",
+  "description": "식단, 운동, 인바디 변화를 한곳에서 기록하는 개인 운동 코치",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f2f1ec",
+  "theme_color": "#171a18",
+  "lang": "ko-KR",
+  "orientation": "portrait-primary"
+}
